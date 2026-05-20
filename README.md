@@ -36,7 +36,7 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🔐 Secure Login System | Authentication with hashed passwords + 2FA | PHP, MySQL |
-| 📊 Log Analyzer Tool | Detects suspicious activity in server logs | Python |
+| 📊 [Log Analyzer Tool](https://github.com/Cuteomar/server-log-analyzer) | Detects suspicious activity in server logs | Python |
 | 🛡️ Incident Response Toolkit | Automates forensic evidence collection | Python |
 | 🎟️ Helpdesk Ticketing System | Lightweight IT support ticketing app | PHP, MySQL |
 | 👥 RBAC System | Role‑based access control with permissions | Python/Flask |
