@@ -39,7 +39,7 @@
 | 📊 [Log Analyzer Tool](https://github.com/Cuteomar/server-log-analyzer) | Detects suspicious activity in server logs | Python |
 | 🛡️ Incident Response Toolkit | Automates forensic evidence collection | Python |
 | 🎟️ Helpdesk Ticketing System | Lightweight IT support ticketing app | PHP, MySQL |
-| 👥 [GateKeeper RBAC System]([https://github.com/Cuteomar/rbac-system](https://github.com/Cuteomar/gatekeeper) | Role‑based access control with permissions | Python/Flask |
+| 👥 [GateKeeper RBAC System](https://github.com/Cuteomar/gatekeeper) | Role‑based access control with permissions | Python/Flask |
 
 *(More projects coming soon — stay tuned!)*  
 
