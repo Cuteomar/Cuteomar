@@ -37,7 +37,7 @@
 |---------|-------------|------------|
 | 🔐 Secure Login System | Authentication with hashed passwords + 2FA | PHP, MySQL |
 | 📊 [Log Analyzer Tool](https://github.com/Cuteomar/server-log-analyzer) | Detects suspicious activity in server logs | Python |
-| 🛡️ Incident Response Toolkit | Automates forensic evidence collection | Python |
+| 🛡️ [Incident Response Toolkit](https://github.com/Cuteomar/SentinelTrace) | Automates forensic evidence collection | Python
 | 🎟️ Helpdesk Ticketing System | Lightweight IT support ticketing app | PHP, MySQL |
 | 👥 [GateKeeper RBAC System](https://github.com/Cuteomar/gatekeeper) | Role‑based access control with permissions | Python/Flask |
 
